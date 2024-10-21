@@ -1,0 +1,12 @@
+h1{
+color: gold
+}
+h1{font-weight: bolder;}
+
+p{
+    color: silver
+}
+ul {
+    list-style: none;
+}
+img {width: 400px ; height: 400px ; object-fit: cover; bord}
